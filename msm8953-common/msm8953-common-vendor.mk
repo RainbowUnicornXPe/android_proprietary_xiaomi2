@@ -636,6 +636,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
+    colorservice \
     WfdCommon \
     QPerformance \
     UxPerformance
